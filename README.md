@@ -1,8 +1,6 @@
 # Watching the battle between disks - Power On Hours
 
 ```
-
-
 Battle: Power On Hours
 🏆 #1 - 32600 hours - c62b70a6952f68caa6fbcd4189d91f9769c1039161c0330fa38ed95b378abc37/_dev_sdb/4
 🥇 #2 - 32598 hours - c62b70a6952f68caa6fbcd4189d91f9769c1039161c0330fa38ed95b378abc37/_dev_sdb/3
